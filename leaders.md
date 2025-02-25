@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Jhury Kevin Lastre](mailto:jhury.lastre@owasp.org)
+* [Vincent Abella](mailto:vincent.abella@owasp.org)
