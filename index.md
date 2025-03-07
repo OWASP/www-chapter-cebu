@@ -52,12 +52,12 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
       <h3 style="margin: 10px 0; text-align: center;">PizzaPy Cebu</h3>
       <p style="text-align: center; margin: 5px 0;">Visit us at <a href="https://www.pizzapy.ph/" target="_blank" rel="noopener noreferrer">PizzaPy PH</a></p>
     </div>
+  </div>
 </section>
 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-TBA
+## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Something awesome is coming soon. Be first to know.
 
 
 <!-- You should delete this comment
