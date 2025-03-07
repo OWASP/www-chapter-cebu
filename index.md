@@ -2,10 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Cebu
-tags: example-tag
+tags: tech-community
 region: Asia
 country: Philippines
-meetup-group:
+meetup-group: 
 
 ---
 
@@ -29,27 +29,36 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-## Community Partners
 
-We are proud to collaborate with various community partners who support our mission to enhance web application security in Cebu.
-
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center; width: 45%;">
-    <img src="assets/images/js_cebu.png" alt="JavaScript Cebu" style="width: 100px;">
-    <p><strong>JavaScript Cebu</strong></p>
-    <p>Visit us at <a href="https://www.jscebu.org/">JS Cebu</a></p>
-  </div>
-  <div style="text-align: center; width: 45%;">
-    <img src="assets/images/pizzapy_big_pie.png" alt="PizzaPy Cebu" style="width: 100px;">
-    <p><strong>PizzaPy Cebu</strong></p>
-    <p>Visit us at <a href="https://www.pizzapy.ph/">PizzaPy PH</a></p>
-  </div>
-</div>
+<!-- Community Partners Section for OWASP Cebu -->
+<section>
+  <h2>Community Partners</h2>
+  
+  <p>We are proud to collaborate with various community partners who support our mission to enhance web application security in Cebu.</p>
+  
+  <div style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap; margin-top: 30px;">
+    <!-- JavaScript Cebu -->
+    <div style="display: flex; flex-direction: column; align-items: center; width: 45%; margin-bottom: 30px;">
+      <div style="height: 150px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <img src="assets/images/js-cebu-v2.png" alt="JavaScript Cebu" style="max-width: 200px; max-height: 150px;">
+      </div>
+      <h3 style="margin: 10px 0; text-align: center;">JavaScript Cebu</h3>
+      <p style="text-align: center; margin: 5px 0;">Visit us at <a href="https://www.jscebu.org/" target="_blank" rel="noopener noreferrer">JS Cebu</a></p>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: center; width: 45%; margin-bottom: 30px;">
+      <div style="height: 150px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
+        <img src="assets/images/pizzapy_big_pie.png" alt="PizzaPy Cebu" style="max-width: 150px; max-height: 150px;">
+      </div>
+      <h3 style="margin: 10px 0; text-align: center;">PizzaPy Cebu</h3>
+      <p style="text-align: center; margin: 5px 0;">Visit us at <a href="https://www.pizzapy.ph/" target="_blank" rel="noopener noreferrer">PizzaPy PH</a></p>
+    </div>
+</section>
 
 
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 TBA
+
 
 <!-- You should delete this comment
 
