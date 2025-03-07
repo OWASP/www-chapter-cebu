@@ -37,12 +37,12 @@ We are proud to collaborate with various community partners who support our miss
   <div style="text-align: center; width: 45%;">
     <img src="assets/images/js_cebu.png" alt="JavaScript Cebu" style="width: 100px;">
     <p><strong>JavaScript Cebu</strong></p>
-    <p>Visit us at <a href="https://www.jscebu.org/">https://www.jscebu.org/</a></p>
+    <p>Visit us at <a href="https://www.jscebu.org/">JS Cebu</a></p>
   </div>
   <div style="text-align: center; width: 45%;">
     <img src="assets/images/pizzapy_big_pie.png" alt="PizzaPy Cebu" style="width: 100px;">
     <p><strong>PizzaPy Cebu</strong></p>
-    <p>Visit us at <a href="https://www.pizzapy.ph/">https://www.pizzapycebu.com/</a></p>
+    <p>Visit us at <a href="https://www.pizzapy.ph/">PizzaPy PH</a></p>
   </div>
 </div>
 
