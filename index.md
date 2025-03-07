@@ -9,6 +9,9 @@ meetup-group:
 
 ---
 
+  <img src="assets/images/owasp-cover.png" alt="OWASP Cebu Logo" style="width: 100%; height: auto; margin-bottom: 30px;">
+
+
 The OWASP Cebu City Chapter is a local community dedicated to web application security in Cebu City, Philippines. As part of the global Open Web Application Security Project (OWASP) Foundation, this chapter brings together cybersecurity professionals, developers, educators, and enthusiasts to share knowledge and promote better security practices.
 
 
