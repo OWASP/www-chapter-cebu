@@ -42,7 +42,7 @@ We are proud to collaborate with various community partners who support our miss
   <div style="text-align: center; width: 45%;">
     <img src="assets/images/pizzapy_big_pie.png" alt="PizzaPy Cebu" style="width: 100px;">
     <p><strong>PizzaPy Cebu</strong></p>
-    <p>Visit us at <a href="https://www.pizzapycebu.com/">https://www.pizzapycebu.com/</a></p>
+    <p>Visit us at <a href="https://www.pizzapy.ph/">https://www.pizzapycebu.com/</a></p>
   </div>
 </div>
 
