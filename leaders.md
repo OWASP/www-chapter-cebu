@@ -1,3 +1,3 @@
 ### Leaders
-* [Jhury Kevin Lastre](mailto:jhury.lastre@owasp.org)
-* [Vincent Abella](mailto:vincent.abella@owasp.org)
+* [Jhury Kevin Lastre](https://github.com/Lavelliane)
+* [Vincent Abella](https://github.com/roastedbeans)
