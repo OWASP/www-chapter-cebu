@@ -52,7 +52,7 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
       <div style="height: 150px; display: flex; align-items: center; justify-content: center; margin-bottom: 15px;">
         <img src="assets/images/pizzapy_big_pie.png" alt="PizzaPy Cebu" style="max-width: 150px; max-height: 150px;">
       </div>
-      <h3 style="margin: 10px 0; text-align: center;">PizzaPy Cebu</h3>
+      <h3 style="margin: 10px 0; text-align: center;">PizzaPy - Cebu Python Users Group</h3>
       <p style="text-align: center; margin: 5px 0;">Visit us at <a href="https://www.pizzapy.ph/" target="_blank" rel="noopener noreferrer">PizzaPy PH</a></p>
     </div>
   </div>
