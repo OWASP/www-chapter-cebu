@@ -29,6 +29,24 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
+## Community Partners
+
+We are proud to collaborate with various community partners who support our mission to enhance web application security in Cebu.
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/images/js_cebu.png" alt="JavaScript Cebu" style="width: 100px;">
+    <p><strong>JavaScript Cebu</strong></p>
+    <p>Visit us at <a href="https://www.jscebu.org/">https://www.jscebu.org/</a></p>
+  </div>
+  <div style="text-align: center; width: 45%;">
+    <img src="assets/images/pizzapy_big_pie.png" alt="PizzaPy Cebu" style="width: 100px;">
+    <p><strong>PizzaPy Cebu</strong></p>
+    <p>Visit us at <a href="https://www.pizzapycebu.com/">https://www.pizzapycebu.com/</a></p>
+  </div>
+</div>
+
+
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 TBA
