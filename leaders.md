@@ -4,6 +4,7 @@
 
 ### Community Mentors
 * [Jasper Marbella](https://github.com/jlmarbs)
+* Christian de Jesus
 
 ### Community Moderators
 * [Fretchel Gerarman](https://github.com/chelochell) (Social Media)
