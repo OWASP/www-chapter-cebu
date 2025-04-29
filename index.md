@@ -60,8 +60,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 
 ## Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+
 ✅ HELLO CEBU! Introduction to OWASP and OWASP Cebu
+
 ✅ Capture the Flag #1 - Web Exploitation & General Skills Series
+
 ✅ Capture the Flag #2 - Web Exploitation & General Skills Series
 
 
