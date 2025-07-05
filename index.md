@@ -67,6 +67,18 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ✅ Capture the Flag #2 - Web Exploitation & General Skills Series
 
+✅ Capture the Flag #3 - Web Exploitation & General Skills Series
+
+### BREACH - Upcoming Event
+**Date:** July 27, 2025  
+**Venue:** iAcademy Cebu  
+
+<div style="text-align: center; margin: 20px 0;">
+  <img src="assets/images/BREACH.png" alt="BREACH Event" style="max-width: 400px; width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
+Join us for an exciting cybersecurity event focusing on application security breaches and defense strategies. More details coming soon!
+
 
 <!-- You should delete this comment
 
