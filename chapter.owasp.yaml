@@ -1,0 +1,21 @@
+leaders:
+  - name: Jhury Kevin Lastre
+    github: Lavelliane
+  - name: Vincent Abella
+location:
+  country: Philippines
+  country_code: PH
+  region: Central Visayas
+  city: Cebu City
+  latitude: 10.2935639
+  longitude: 123.9019209
+name: OWASP Cebu
+repositories:
+  - name: www-chapter-cebu
+    url: https://github.com/OWASP/www-chapter-cebu
+    description: OWASP Foundation web repository
+tags:
+  - tech-community
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-cebu
