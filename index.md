@@ -83,8 +83,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 12px; color: white; margin: 30px 0;">
-  <h3 style="color: white; margin-top: 0; font-size: 1.8em;">🎯 Café GeekUp: Networking 101</h3>
+<div style="background: linear-gradient(135deg, #DDDAD0 0%, #F8F3CE 100%); padding: 30px; border-radius: 12px; color: #333; margin: 30px 0;">
+  <h3 style="color: #333; margin-top: 0; font-size: 1.8em;">🎯 Café GeekUp: Networking 101</h3>
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; font-size: 1.05em;">
     <div><strong>📅 Date:</strong> October 25, 2025</div>
     <div><strong>⏰ Time:</strong> 1:00 PM – 5:00 PM</div>
@@ -150,11 +150,11 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ---
 
-<div style="text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white; margin: 40px 0;">
-  <h3 style="color: white; font-size: 1.8em; margin-bottom: 15px;">Join Our Community!</h3>
-  <p style="font-size: 1.2em; margin-bottom: 25px;">Connect with cybersecurity professionals and enthusiasts in Cebu</p>
+<div style="text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #DDDAD0 0%, #F8F3CE 100%); border-radius: 12px; color: #333; margin: 40px 0;">
+  <h3 style="color: #333; font-size: 1.8em; margin-bottom: 15px;">Join Our Community!</h3>
+  <p style="font-size: 1.2em; margin-bottom: 25px; color: #555;">Connect with cybersecurity professionals and enthusiasts in Cebu</p>
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://medium.owasp-cebu.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 25px; background-color: white; color: #667eea; text-decoration: none; border-radius: 6px; font-weight: bold;">📝 Read Our Blog</a>
-    <a href="/membership/" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); color: white; text-decoration: none; border-radius: 6px; font-weight: bold; border: 2px solid white;">🤝 Become a Member</a>
+    <a href="https://medium.owasp-cebu.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 25px; background-color: #333; color: white; text-decoration: none; border-radius: 6px; font-weight: bold;">📝 Read Our Blog</a>
+    <a href="/membership/" style="display: inline-block; padding: 12px 25px; background-color: rgba(51,51,51,0.1); color: #333; text-decoration: none; border-radius: 6px; font-weight: bold; border: 2px solid #333;">🤝 Become a Member</a>
   </div>
 </div>
