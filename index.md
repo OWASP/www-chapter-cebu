@@ -5,9 +5,11 @@ title: OWASP Cebu
 tags: tech-community
 region: Asia
 country: Philippines
-meetup-group: 
+meetup-group:
 
 ---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
   <img src="assets/images/owasp-cover.png" alt="OWASP Cebu Logo" style="width: 100%; height: auto; margin-bottom: 30px;">
 
@@ -83,20 +85,20 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 
-<div style="background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); padding: 30px; border-radius: 12px; color: white; margin: 30px 0;">
-  <h3 style="color: white; margin-top: 0; font-size: 1.8em;">🎯 Café GeekUp: Networking 101</h3>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; font-size: 1.05em; color: white;">
-    <div><strong>📅 Date:</strong> October 25, 2025</div>
-    <div><strong>⏰ Time:</strong> 1:00 PM – 5:00 PM</div>
-    <div><strong>📍 Venue:</strong> Highlands Coffee, Cebu Exchange Tower</div>
-    <div><strong>🤝 Co-hosted with:</strong> DEVCON Cebu</div>
+<div style="background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); padding: 30px; border-radius: 12px; color: white; margin: 40px 0;">
+  <h3 style="margin-top: 0; font-size: 1.8em;"><i class="fas fa-rocket" style="margin-right: 8px;"></i>Café GeekUp: Networking 101</h3>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; font-size: 1.05em;">
+    <div><strong><i class="fas fa-calendar-alt" style="margin-right: 5px;"></i>Date:</strong> October 25, 2025</div>
+    <div><strong><i class="fas fa-clock" style="margin-right: 5px;"></i>Time:</strong> 1:00 PM – 5:00 PM</div>
+    <div><strong><i class="fas fa-building" style="margin-right: 5px;"></i>Venue:</strong> Highlands Coffee, Cebu Exchange Tower</div>
+    <div><strong><i class="fas fa-users" style="margin-right: 5px;"></i>Co-hosted with:</strong> DEVCON Cebu</div>
   </div>
-  
+
   <div style="text-align: center; margin: 25px 0;">
     <img src="assets/images/cafe-geekup-1.jpg" alt="Café GeekUp Event" style="max-width: 500px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
   </div>
-  
-  <p style="font-size: 1.1em; line-height: 1.6; margin: 20px 0; color: white;">A collaborative study huddle focused on networking fundamentals and security essentials. Learn how networks work, why security matters, and how these fundamentals form the backbone of today's tech landscape. Perfect for beginners and those refreshing their basics.</p>
+
+  <p style="font-size: 1.1em; line-height: 1.6; margin: 20px 0;">A collaborative study huddle focused on networking fundamentals and security essentials. Learn how networks work, why security matters, and how these fundamentals form the backbone of today's tech landscape. Perfect for beginners and those refreshing their basics.</p>
 </div>
 
 ---
@@ -107,26 +109,26 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 <div style="margin: 20px 0;">
   <details style="margin-bottom: 15px;">
-    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">✅ HELLO CEBU! Introduction to OWASP and OWASP Cebu</summary>
+    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">HELLO CEBU! Introduction to OWASP and OWASP Cebu</summary>
   </details>
-  
+
   <details style="margin-bottom: 15px;">
-    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">✅ Capture the Flag #1 - Web Exploitation & General Skills Series</summary>
+    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">Capture the Flag #1 - Web Exploitation & General Skills Series</summary>
   </details>
-  
+
   <details style="margin-bottom: 15px;">
-    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">✅ Capture the Flag #2 - Web Exploitation & General Skills Series</summary>
+    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">Capture the Flag #2 - Web Exploitation & General Skills Series</summary>
   </details>
-  
+
   <details style="margin-bottom: 15px;">
-    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">✅ Capture the Flag #3 - Web Exploitation & General Skills Series</summary>
+    <summary style="cursor: pointer; padding: 12px; background: #f3f4f6; border-radius: 8px; font-weight: 600; font-size: 1.1em;">Capture the Flag #3 - Web Exploitation & General Skills Series</summary>
   </details>
 </div>
 
 <div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin: 25px 0;">
-  <h3 style="color: #2563eb; margin-top: 0;">✅ BREACH - Application Security Breaches and Defense Strategies</h3>
-  <p style="margin: 10px 0;"><strong>📅 Date:</strong> July 27, 2025</p>
-  <p style="margin: 10px 0;"><strong>📍 Venue:</strong> iAcademy Cebu</p>
+  <h3 style="color: #2563eb; margin-top: 0;">BREACH - Application Security Breaches and Defense Strategies</h3>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-calendar-alt" style="margin-right: 5px;"></i>Date:</strong> July 27, 2025</p>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-building" style="margin-right: 5px;"></i>Venue:</strong> iAcademy Cebu</p>
   
   <div style="text-align: center; margin: 25px 0;">
     <img src="assets/images/BREACH.png" alt="BREACH Event" style="max-width: 500px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
@@ -144,10 +146,10 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 </div>
 
 <div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin: 25px 0;">
-  <h3 style="color: #2563eb; margin-top: 0;">✅ FORTIFY: Secure Development Fundamentals</h3>
-  <p style="margin: 10px 0;"><strong>📅 Date:</strong> October 18, 2025</p>
-  <p style="margin: 10px 0;"><strong>📍 Venue:</strong> Zoom Webinar (2pm to 4:30pm)</p>
-  <p style="margin: 10px 0;"><strong>📚 Topics:</strong> AppSec Landscape, Case Studies, and OWASP ASVS</p>
+  <h3 style="color: #2563eb; margin-top: 0;">FORTIFY: Secure Development Fundamentals</h3>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-calendar-alt" style="margin-right: 5px;"></i>Date:</strong> October 18, 2025</p>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-building" style="margin-right: 5px;"></i>Venue:</strong> Zoom Webinar (2pm to 4:30pm)</p>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-book" style="margin-right: 5px;"></i>Topics:</strong> AppSec Landscape, Case Studies, and OWASP ASVS</p>
   
   <div style="text-align: center; margin: 25px 0;">
     <img src="assets/images/FORTIFY.png" alt="FORTIFY Event" style="max-width: 500px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
@@ -168,9 +170,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 <div style="text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); border-radius: 12px; color: white; margin: 40px 0;">
   <h3 style="color: white; font-size: 1.8em; margin-bottom: 15px;">Join Our Community!</h3>
-  <p style="font-size: 1.2em; margin-bottom: 25px; color: #e0e0e0;">Connect with cybersecurity professionals and enthusiasts in Cebu</p>
+  <p style="font-size: 1.2em; margin-bottom: 25px; color: #ffffff;">Connect with cybersecurity professionals and enthusiasts in Cebu</p>
   <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-    <a href="https://medium.owasp-cebu.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 25px; background-color: white; color: #2d2d2d; text-decoration: none; border-radius: 6px; font-weight: bold;">📝 Read Our Blog</a>
-    <a href="/membership/" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); color: white; text-decoration: none; border-radius: 6px; font-weight: bold; border: 2px solid white;">🤝 Become a Member</a>
+    <a href="https://medium.owasp-cebu.org" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 12px 25px; background-color: white; color: #2d2d2d; text-decoration: none; border-radius: 6px; font-weight: bold;"><i class="fas fa-pen" style="margin-right: 8px;"></i>Read Our Blog</a>
+    <a href="/membership/" style="display: inline-block; padding: 12px 25px; background-color: rgba(255,255,255,0.2); color: white; text-decoration: none; border-radius: 6px; font-weight: bold; border: 2px solid white;"><i class="fas fa-handshake" style="margin-right: 8px;"></i>Become a Member</a>
   </div>
 </div>
