@@ -133,6 +133,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
   </div>
   
   <p style="line-height: 1.6; color: #4b5563;">An exciting cybersecurity event focusing on application security breaches and defense strategies, providing insights into real-world security incidents and how to protect against them.</p>
+  
+  <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #e5e7eb;">
+    <h4 style="color: #333; margin: 10px 0;">🎤 Speakers:</h4>
+    <ul style="margin: 10px 0; padding-left: 20px;">
+      <li><strong>Mr. Clint Canada</strong> - IT Consultant</li>
+      <li><strong>Mr. Jhury Kevin Lastre</strong> - Cybersecurity Researcher, Mobisec Lab Kookmin University Dept. of Cybersecurity</li>
+    </ul>
+  </div>
 </div>
 
 <div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin: 25px 0;">
@@ -146,6 +154,14 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
   </div>
   
   <p style="line-height: 1.6; color: #4b5563;">A comprehensive webinar covering the application security landscape, real-world case studies, and an introduction to the OWASP Application Security Verification Standard (ASVS) for building secure applications.</p>
+  
+  <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #e5e7eb;">
+    <h4 style="color: #333; margin: 10px 0;">🎤 Speakers:</h4>
+    <ul style="margin: 10px 0; padding-left: 20px;">
+      <li><strong>Mr. Clint Canada</strong> - IT Consultant</li>
+      <li><strong>Mr. Ahdzleebee Formentera</strong> - Principal Software Engineer and Security Champion, Bentley Systems</li>
+    </ul>
+  </div>
 </div>
 
 ---
