@@ -166,6 +166,24 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
   </div>
 </div>
 
+<div style="background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); margin: 25px 0;">
+  <h3 style="color: #2563eb; margin-top: 0;">Café GeekUp: Networking 101</h3>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-calendar-alt" style="margin-right: 5px;"></i>Date:</strong> October 25, 2025</p>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-clock" style="margin-right: 5px;"></i>Time:</strong> 1:00 PM – 5:00 PM</p>
+  <p style="margin: 10px 0;"><strong><i class="fas fa-building" style="margin-right: 5px;"></i>Venue:</strong> Highlands Coffee, Cebu Exchange Tower</p>
+  
+  <div style="text-align: center; margin: 25px 0;">
+    <img src="assets/images/cafe-geekup-1.jpg" alt="Café GeekUp Event" style="max-width: 500px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  </div>
+  
+  <p style="line-height: 1.6; color: #4b5563;">A collaborative study huddle focused on networking fundamentals and security essentials. Learn how networks work, why security matters, and how these fundamentals form the backbone of today's tech landscape. Perfect for beginners and those refreshing their basics.</p>
+  
+  <div style="margin-top: 20px; padding-top: 20px; border-top: 1px solid #e5e7eb;">
+    <h4 style="color: #333; margin: 10px 0;"><i class="fas fa-handshake" style="margin-right: 8px;"></i>Co-hosted with:</h4>
+    <p style="margin: 10px 0;"><strong>DEVCON Cebu</strong></p>
+  </div>
+</div>
+
 ---
 
 <div style="text-align: center; padding: 40px 20px; background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); border-radius: 12px; color: white; margin: 40px 0;">
