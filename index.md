@@ -85,21 +85,28 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 
 ## Next Meeting/Event
 
-<div style="background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); padding: 30px; border-radius: 12px; color: white; margin: 40px 0;">
-  <h3 style="margin-top: 0; font-size: 1.8em;"><i class="fas fa-rocket" style="margin-right: 8px;"></i>Café GeekUp: Networking 101</h3>
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; font-size: 1.05em;">
-    <div><strong><i class="fas fa-calendar-alt" style="margin-right: 5px;"></i>Date:</strong> October 25, 2025</div>
-    <div><strong><i class="fas fa-clock" style="margin-right: 5px;"></i>Time:</strong> 1:00 PM – 5:00 PM</div>
-    <div><strong><i class="fas fa-building" style="margin-right: 5px;"></i>Venue:</strong> Highlands Coffee, Cebu Exchange Tower</div>
-    <div><strong><i class="fas fa-users" style="margin-right: 5px;"></i>Co-hosted with:</strong> DEVCON Cebu</div>
-  </div>
-
-  <div style="text-align: center; margin: 25px 0;">
-    <img src="assets/images/cafe-geekup-1.jpg" alt="Café GeekUp Event" style="max-width: 500px; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);">
-  </div>
-
-  <p style="font-size: 1.1em; line-height: 1.6; margin: 20px 0;">A collaborative study huddle focused on networking fundamentals and security essentials. Learn how networks work, why security matters, and how these fundamentals form the backbone of today's tech landscape. Perfect for beginners and those refreshing their basics.</p>
+<div style="background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); padding: 40px 30px; border-radius: 12px; color: white; margin: 30px 0; text-align: center;">
+  <h3 style="color: white; margin: 0; font-size: 1.8em;">✨ Stay tuned for what's next!</h3>
+  <p style="font-size: 1.1em; margin: 15px 0 0 0; color: #e0e0e0;">More exciting cybersecurity events coming soon to OWASP Cebu.</p>
 </div>
+
+<!-- Upcoming Event Template (Commented Out)
+<div style="background: linear-gradient(135deg, #2d2d2d 0%, #a8a8a8 100%); padding: 30px; border-radius: 12px; color: white; margin: 30px 0;">
+  <h3 style="color: white; margin-top: 0; font-size: 1.8em;"> [Event Title]</h3>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin: 20px 0; font-size: 1.05em; color: white;">
+    <div><strong> Date:</strong> [Date]</div>
+    <div><strong> Time:</strong> [Time]</div>
+    <div><strong> Venue:</strong> [Venue]</div>
+    <div><strong> Co-hosted with:</strong> [Partner]</div>
+  </div>
+  
+  <div style="text-align: center; margin: 25px 0;">
+    <p style="color: #ccc; font-style: italic;">[Event Image]</p>
+  </div>
+  
+  <p style="font-size: 1.1em; line-height: 1.6; margin: 20px 0; color: white;">[Event Description]</p>
+</div>
+-->
 
 ---
 
